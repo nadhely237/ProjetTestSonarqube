@@ -60,4 +60,3 @@ jobs:
       inputs:
         notifyUsers: 'dorotheehelenen@gmail.com'
         instructions: 'check sonarqube board'
-  
