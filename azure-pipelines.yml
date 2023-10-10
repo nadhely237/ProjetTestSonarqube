@@ -9,15 +9,14 @@ trigger:
 pool:
   vmImage: 'windows-latest'
 
-variables:
-  solution: '*.sln'
-  buildPlatform: 'Any CPU'
-  buildConfiguration: 'Release'
-
 jobs:
   -job: build
     steps:
     - task: NuGetToolInstaller@1
+    variables:
+      solution: '*.sln'
+      buildPlatform: 'Any CPU'
+      buildConfiguration: 'Release'
 
     - task: NuGetCommand@2
       inputs:
