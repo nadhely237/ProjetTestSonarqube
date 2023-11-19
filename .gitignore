@@ -1,0 +1,20 @@
+# Fichiers générés par Visual Studio
+.vs/
+WebApplication1/.vs/
+# Fichiers de configuration
+WebApplication1/appsettings.Development.json
+WebApplication1/appsettings.json
+
+# Fichiers de sortie du compilateur
+WebApplication1/bin/
+WebApplication1/obj/
+
+# Pages Web
+WebApplication1/Pages/
+
+# Propriétés
+WebApplication1/Properties/
+
+
+# Contenu du site Web
+# WebApplication1/wwwroot/

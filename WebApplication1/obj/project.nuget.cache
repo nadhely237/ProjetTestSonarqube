@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+E7fV8b4jkjQURUsyMrKxIi3meqrS+aYORza2ruILY1PmiD/hcJ2/TrYa8Mo1kb41u7emv6A6boJGnorpaovfA==",
+  "dgSpecHash": "4MyHP815EEbL4zWEAztaY8XpyRtSgqg2PoyPj+pTzeIamqTqQamWwGrLmF1bRHpGSmLhXOjKrhXtzf53ULDyEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Documents\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Documents\\TestSonar\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
